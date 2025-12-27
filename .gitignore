@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+backend/data/cache/*.csv
+backend/data/cache/*.xml
+data/cache/*.csv
+data/cache/*.xml
+node_modules/
+dist/
+build/
+.DS_Store
